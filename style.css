@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #dadfe3;
+    color: #5c59b9;
+    margin: 0;
+    line-height: 2;
+}
+
+.satauri {
+    color: #4e85a5
+}
+
+.satauri {
+    color: #145374;
+    border-bottom: 3px solid #a8c4d6;
+    padding-bottom: 6px;
+    margin-top: 22px
+}
+
+.note {
+    color: #3b4853;
+    font-style: italic;
+    margin-top: 22px
+}
+
+.warwera {
+    margin-top: 24px
+}
+
+.highlight {
+    background-color: #81b0cd;
+    border-bottom: 3px rgb(103, 86, 79) #a6d8f8
+}
+
+.link {
+    color: #9b1c1c;
+    text-decoration: none
+}
+
+.link:hover {
+    text-decoration: underline
+}
+
+.quote {
+    margin: 13px 0;
+    padding: 9px 12px;
+    border-left: 4px solid #457e9b;
+    background-color: #6b97b0
+}
+
+.cxrili2 {
+    background-color: #fff;
+    border: 1px solid #c8d1d9;
+    padding: 10px 28px;
+    margin-top: 14px
+}
+
+.cxrili3 {
+    color: #0b3954;
+    margin-top: 14px;
+    border: #000000;
+    border-width: 100px;
+}
+
+.cxrili {
+    margin-bottom:6px
+}
+
+.porma {
+    background-color: #c6bebe;
+    border: 5px solid #5c666e;
+    padding: 13px;
+    margin-top: 15px
+}
+
+.label {
+    display: block;
+    margin-top: 11px;
+    margin-bottom: 5px;
+    font-weight: 800
+}
+
+.sheyvana,.select {
+    border: 2px solid #92b7d6;
+    padding: 6px
+}
+
+.sheyvana:focus,.select:focus {
+    outline: 3px solid #6094be
+}
+
+.button {
+    margin-top: 12px;
+    background-color: #0b3954;
+    color: #fff;
+    border: 1px solid #082a3d;
+    padding: 7px 11px
+}
+
+.cxrili {
+    margin-top: 10px;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+.header,.cell {
+    border: 1px solid #9aa7b2;
+    padding: 20px
+}
+
+.header {
+    background-color: #dce8ef
+}
+
+.row:nth-child(even) {
+    background-color: #394b57
+}
+
+.seqcia {
+    margin: 17px 22px
+}
+
+.nooote {
+    margin-top: 16px;
+    color: #977a44
+}
+
+.divi{
+    margin-top: 22px;
+    background-color: #ffffff;
+}
